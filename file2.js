@@ -1,10 +1,2 @@
-my my jjss
+SVGAnimatedPreserveAspectRatio
 
-a
-SVGAnimatedPreserveAspectRatiosas
-async (setInterval(() => {
-    params
-}, satisfiesas
-a);) => {
-    
-}
